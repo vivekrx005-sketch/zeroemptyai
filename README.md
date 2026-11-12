@@ -1,0 +1,2 @@
+# zeroemptyai
+AI project repository
